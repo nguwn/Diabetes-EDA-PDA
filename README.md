@@ -1,4 +1,4 @@
-The project is conducted bsed on the avaiable dataset on Kaggle.com (https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+The project is conducted based on the avaiable dataset on Kaggle.com (https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 The project is aimed to build a predictive model to identify individuals at risk of diabetes
 
 The project contains 3 files:
@@ -21,7 +21,8 @@ The work above has achieved the following criteria:
 Future plans:
 - Performing more EDA on other features to gain insights such as health status, nutrient status, physical condition, etc.
 - Performing feature engineering to create new features that may improve the performance of the models.
-- Using other machine learning algorithms such as Neural Network, Gradient Boosting, etc. to compare the results.
+- Perform hyperparameter tuning on each used model for a better evaluation.
+- Use other machine learning algorithms such as Neural Networks, Gradient Boosting, etc. to compare the results.
 - Testing the best models on an unseen dataset to evaluate their performance.
 - Deploying the best models on a GUI application.
 
